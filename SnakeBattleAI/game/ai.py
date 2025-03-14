@@ -1,4 +1,4 @@
-from game.constants import *
+from constants import *
 import heapq
 import random
 
