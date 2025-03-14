@@ -1,5 +1,5 @@
 import pygame
-from game.constants import *
+from constants import *
 
 class Snake:
     def __init__(self, x, y, color):
