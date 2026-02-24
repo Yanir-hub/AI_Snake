@@ -7,7 +7,7 @@ To run
 
 Move the files to a python enviroment for example Pycharm.
 Install the relevent packages.
-Run the game.
+Run the game. (Run main for the main game, run tournament for running a simulation of a tournament between two algorithems)
 
 
 
